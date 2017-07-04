@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('AR6J-release.aar'))
